@@ -25,7 +25,7 @@ To ciąg znaków, który jest sprawdzany. Słowo kluczowe będzie wyszukiwane w 
 
 ### Wygasanie po czasie {#filter-expire}
 
-Opcjonalnie możesz zastosować filtr tylko na określony okres. Wygasłe filtry nie są automatycznie usuwane, ale mogą być włączone ponownie, ustawiając nową datę wygaśnięcia \(lub wyłączając wygasanie\).
+Opcjonalnie możesz zastosować filtr tylko na określony okres. Wygasłe filtry nie są automatycznie usuwane, ale mogą być włączone ponownie poprzez ustawienie nowej daty wygaśnięcia \(lub wyłączenie wygasania\).
 
 ### Kontekst filtrów {#filter-context}
 
@@ -37,7 +37,7 @@ Wybierz, gdzie zostanie zastosowany filtr:
 
 ### Usuwanie zamiast ukrywania {#filter-drop}
 
-Filtrowanie zwykle odbywa się po stronie klienta, więc wyłączenie filtru sprawi, że filtrowane wpisu będą widoczne ponownie. Jeśli jednak włączysz „Usuwaj zamiast ukrywać”, pasujące wpisy będą całkowicie usuwane i nigdy nie zobaczysz ich w powiadomieniach lub na stronie głównej.
+Filtrowanie zwykle odbywa się po stronie klienta, więc wyłączenie filtru sprawi, że filtrowane wpisy będą widoczne ponownie. Jeśli jednak włączysz „Usuwaj zamiast ukrywać”, pasujące wpisy będą całkowicie usuwane i nigdy nie zobaczysz ich w powiadomieniach lub na stronie głównej.
 
 ### Pełne słowa {#filter-whole}
 
@@ -62,7 +62,7 @@ Przy wyciszeniu możesz zadecydować czy wyciszysz powiadomienia od tej osoby. W
 * Nie zobaczysz innych osób, gdy wspomniają o tym użytkowniku
 * Nie zobaczysz tego użytkownika w publicznych osiach czasu
 
-Jeżeli wybierzesz, aby wyciszyć też powiadomienia od tego użytkownika, nie będziesz dostawać też od niego powiadomień.
+Jeżeli wybierzesz, aby wyciszyć też powiadomienia od tego użytkownika, nie będziesz oprócz tego dostawać od niego powiadomień.
 
 Wyciszenia mogą mieć dodatkowo czas, po którym wygasną.
 
